@@ -4,9 +4,14 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-4.4%20%2B%20-%23FF0000)](https://ffmpeg.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A powerful and user-friendly desktop application that converts spoken content from video files into readable text using speech recognition. No Python or setup required — just download and run!
 
-![App Screenshot](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/GUI_Dark_Theme.png)
+---
+
+## 📖 Introduction
+
+The **VideoToText Converter** is a simple and efficient desktop application that helps users convert spoken content from video files into readable text. It leverages speech recognition technology to transcribe audio from video files in various formats such as `.mp4`, `.avi`, `.mov`, and `.mkv`. This tool is perfect for creating subtitles, transcribing lectures or meetings, and more. With no setup or Python knowledge required, users can easily extract and transcribe text with just a few clicks.
+
+
 
 ---
 
