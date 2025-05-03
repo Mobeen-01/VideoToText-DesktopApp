@@ -1,4 +1,8 @@
 # 🎬 VideoToText Converter
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat&logo=python)](https://www.python.org)
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter%20%2B%20TTKBootstrap-yellow)](https://ttkbootstrap.readthedocs.io/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-4.4%20%2B%20-%23FF0000)](https://ffmpeg.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A powerful and user-friendly desktop application that converts spoken content from video files into readable text using speech recognition. No Python or setup required — just download and run!
 
