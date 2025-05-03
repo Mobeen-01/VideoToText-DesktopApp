@@ -61,8 +61,11 @@ Go to [v1.0 Release](https://github.com/Mobeen-01/VideoToText-DesktopApp/release
 
 ## 🎥 Demo Video
 
-📺 Watch how to install and use the app:  
+📺 Watch how to **download, install, and use** the app:  
 [🔗 Installation Guide (Video)](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/Intsallation_Guide.mp4)
+
+▶️ See a **demo of how to use the app and get the output**:  
+[🔗 App Demo Video](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/App_demo.mp4)
 
 ---
 
