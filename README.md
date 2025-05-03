@@ -34,11 +34,26 @@ A powerful and user-friendly desktop application that converts spoken content fr
 
 Download the latest `.exe` installer from the [Releases](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases) tab and run:
 
-- ✅ No installation of Python or libraries needed
-- ✅ Works out of the box on Windows
-- ✅ Optional: Create a desktop shortcut during installation
+- ✅ No installation of Python or libraries needed  
+- ✅ Works out of the box on Windows  
+- ✅ Optional: Create a desktop shortcut during installation  
+
+➡️ **Quick Download**:  
+Use the direct link below to download the full installer:
+
+> [Download VideoToText_Installer.exe](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases/download/v1.0/VideoToText_Installer.exe)
+
+Or if you'd like to browse other versions:  
+Go to [v1.0 Release](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases/tag/v1.0), scroll to **Assets**, and download `VideoToText_Installer.exe`.
 
 > If you downloaded the portable `script.exe`, simply double-click to run.
+
+---
+
+## 🎥 Demo Video
+
+📺 Watch how to install and use the app:  
+[🔗 Installation Guide (Video)](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/Intsallation_Guide.mp4)
 
 ---
 
@@ -46,21 +61,21 @@ Download the latest `.exe` installer from the [Releases](https://github.com/Mobe
 
 ➡️ [Latest Release (v1.0)](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases/tag/v1.0)
 
-- 🔹 `VideoToText_Installer.exe` – Full Windows installer
-- 🔹 `script.exe` – Portable single-file executable
+- 🔹 `VideoToText_Installer.exe` – Full Windows installer  
+- 🔹 `script.exe` – Portable single-file executable  
 
 ---
 
 ## 📁 How It Works
 
-1. Select a video file.
-2. Choose an output folder.
-3. Click **"Extract Text"**.
-4. The app:
-   - Extracts audio using FFmpeg
-   - Splits audio into 1-minute chunks
-   - Transcribes each chunk with Google's speech API
-   - Saves a final text file in the chosen directory
+1. Select a video file.  
+2. Choose an output folder.  
+3. Click **"Extract Text"**.  
+4. The app:  
+   - Extracts audio using FFmpeg  
+   - Splits audio into 1-minute chunks  
+   - Transcribes each chunk with Google's speech API  
+   - Saves a final text file in the chosen directory  
 
 ---
 
