@@ -2,7 +2,7 @@
 
 A powerful and user-friendly desktop application that converts spoken content from video files into readable text using speech recognition. No Python or setup required — just download and run!
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot-path/video-to-text-ui.png)
+![App Screenshot](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/GUI_Dark_Theme.png)
 
 ---
 
@@ -32,7 +32,7 @@ A powerful and user-friendly desktop application that converts spoken content fr
 
 ### 🔧 For End Users
 
-Download the latest `.exe` installer from the [Releases](https://github.com/your-username/your-repo-name/releases) tab and run:
+Download the latest `.exe` installer from the [Releases](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases) tab and run:
 
 - ✅ No installation of Python or libraries needed
 - ✅ Works out of the box on Windows
@@ -44,7 +44,7 @@ Download the latest `.exe` installer from the [Releases](https://github.com/your
 
 ## 📦 Download
 
-➡️ [Latest Release (v1.0)](https://github.com/your-username/your-repo-name/releases/latest)
+➡️ [Latest Release (v1.0)](https://github.com/Mobeen-01/VideoToText-DesktopApp/releases/tag/v1.0)
 
 - 🔹 `VideoToText_Installer.exe` – Full Windows installer
 - 🔹 `script.exe` – Portable single-file executable
@@ -68,6 +68,6 @@ Download the latest `.exe` installer from the [Releases](https://github.com/your
 
 | Dark Theme | Light Theme |
 |------------|-------------|
-| ![Dark](https://user-images.githubusercontent.com/your-path/dark-mode.png) | ![Light](https://user-images.githubusercontent.com/your-path/light-mode.png) |
+| ![Dark](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/GUI_Dark_Theme.png) | ![Light](https://github.com/Mobeen-01/VideoToText-DesktopApp/blob/main/GUI_Light_Theme.png) |
 
 ---
